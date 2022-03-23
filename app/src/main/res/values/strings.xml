@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">atividade_zeplin</string>
+    <string name="superb_app_theme">Superb App Theme</string>
+    <string name="subtitulo">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="buy_now">buy now</string>
+    <string name="for_developers">For Developers</string>
+    <string name="and_designers">And Designers</string>
+    <string name="connect">CONNECT</string>
+    <string name="profile">PROFILE</string>
+    <string name="john_bergen">John Bergen</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="connections">Connections</string>
+    <string name="about">About</string>
+    <string name="textlorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+</resources>
